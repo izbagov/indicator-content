@@ -1,0 +1,16 @@
+{
+  "name": "indicator-content",
+  "version": "0.01",
+  "description": "Indicator content line",
+  "homepage": "https://github.com/izbagov/indicator-content",
+  "source": "index.js",
+  "main": "dist/ic.js",
+  "module": "dist/ic.mjs",
+  "unpkg": "dist/ic.umd.js",
+  "repository": "izbagov/indicator-content",
+  "keywords": [
+    "indicator",
+    "content"
+  ],
+  "author": "Ramazan Izbagov"
+}

@@ -1,0 +1,9 @@
+.ic-progress {
+  width: 0%;
+  height: 4px;
+  background: #1f5bff;
+  position: fixed;
+  top: 0;
+  transition: width 0.5s ease;
+  z-index: 10000;
+}
